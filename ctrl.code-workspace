@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"Init.C": "cpp",
+			"globals.h": "c",
+			"fxstruct.h": "c",
+			"stdbool.h": "c",
+			"channelstruct.h": "c",
+			"structs.h": "c",
+			"cstdbool": "c",
+			"c++config.h": "c",
+			"typeinfo": "c",
+			"entrypoint.c": "cpp",
+			"inputmapping.c": "cpp",
+			"*.tcc": "c",
+			"string": "c",
+			"fstream": "c",
+			"istream": "c",
+			"ostream": "c",
+			"streambuf": "c",
+			"system_error": "c",
+			"helpers.c": "cpp",
+			"wire.h": "c",
+			"audio.h": "c"
+		}
+	}
+}
